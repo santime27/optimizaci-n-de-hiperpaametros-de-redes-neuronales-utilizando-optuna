@@ -7,10 +7,15 @@ Optuna es un framework de optimización de hiperparámetros automatizado, diseñ
 Este repositorio está dividido en tres carpetas principales, que corresponden a las arquitecturas de redes neuronales que serán optimizadas:
 
 CNN: Red Neuronal Convolucional.
+
 GNN: Red Neuronal de Grafos.
+
 MLP: Red Completamente Conectada.
+
 En cada una de estas carpetas se encuentra:
 
-Una clase que define la arquitectura de la red neuronal, partiendo de las entradas específicas.
+Cada carpeta de la arquitectura de red neuronal contiene una clase que define la estructura de la red neuronal, partiendo de las entradas específicas, ademas, tambien contiene
 Un notebook de Jupyter que contiene el procedimiento completo de optimización de hiperparámetros utilizando Optuna para cada red neuronal.
-Además, el repositorio incluye un archivo requirements.txt que lista las bibliotecas necesarias para ejecutar el proyecto, facilitando la instalación de dependencias.
+
+
+Este repositorio repositorio incluye un archivo requirements.txt que lista las bibliotecas necesarias para ejecutar el proyecto, facilitando la instalación de dependencias.
