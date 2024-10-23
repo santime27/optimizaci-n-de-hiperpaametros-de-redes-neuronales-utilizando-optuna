@@ -17,4 +17,4 @@ Cada carpeta de la arquitectura de red neuronal contiene una clase que define la
 Un notebook de Jupyter que contiene el procedimiento completo de optimización de hiperparámetros utilizando Optuna para cada red neuronal.
 
 
-Este repositorio repositorio incluye un archivo requirements.txt que lista las bibliotecas necesarias para ejecutar el proyecto, facilitando la instalación de dependencias.
+Este repositorio incluye un archivo requirements.txt que lista las bibliotecas necesarias para ejecutar el proyecto, facilitando la instalación de dependencias.
