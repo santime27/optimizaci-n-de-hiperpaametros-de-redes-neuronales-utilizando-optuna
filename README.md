@@ -12,7 +12,6 @@ GNN: Red Neuronal de Grafos.
 
 MLP: Red Completamente Conectada.
 
-En cada una de estas carpetas se encuentra:
 
 Cada carpeta de la arquitectura de red neuronal contiene una clase que define la estructura de la red neuronal, partiendo de las entradas específicas, ademas, tambien contiene
 Un notebook de Jupyter que contiene el procedimiento completo de optimización de hiperparámetros utilizando Optuna para cada red neuronal.
