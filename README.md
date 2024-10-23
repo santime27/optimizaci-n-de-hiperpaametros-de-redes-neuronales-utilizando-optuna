@@ -10,13 +10,13 @@ Para este proyecto, se realizó la optimización de hiperparámetros en arquitec
 
 Este repositorio está dividido en tres carpetas principales, que corresponden a las arquitecturas de redes neuronales que serán optimizadas:
 
-- CNN/
+- CNN
     - CNN_network.py
     - optuna_cnn_train.ipynb
-- GNN/
+- GNN
     - GCN_network.py
     - optuna_gcn_train.ipynb
-- MLP/
+- MLP
     - MLP_network.py
     - optuna_mlp_train.ipynb
 - requirements.txt
